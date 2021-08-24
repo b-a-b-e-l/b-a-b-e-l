@@ -1,10 +1,9 @@
 ## Hola! I'm Belén
 
+- Pronouns: she/her
 - I'm currently a Front End Development trainee
-- I'm looking for a Mentor!
 - 2021 Goals: Master React.js and have fun coding creative projects
 - I'm also into UX/UI design
-- Pronouns: she/her
 - Fun Fact: 3 is my magic number
 
 ### Languages and Tools
