@@ -23,5 +23,5 @@
 ### Connect with me
 
 [<img align="left" alt="LinkedIn" width="33px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/bednarskibelen/)
-[<img align="left" alt="EMail" width="33px" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/twitter/259/e-mail_1f4e7.png" />](mailto:belenbednarski@gmail.com)
+[<img align="left" alt="EMail" width="33px" src="https://cdn-icons-png.flaticon.com/512/561/561127.png" />](mailto:belenbednarski@gmail.com)
 [<img align="left" alt="Instagram" width="33px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/babelita/)
