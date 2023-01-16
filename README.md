@@ -2,7 +2,7 @@
 
 - Pronouns: she/her
 - I'm currently a Front End Development trainee
-- 2021 Goals: Master React.js and have fun coding creative projects
+- I'm a startup founder
 - I'm also into UX/UI design
 - Fun Fact: 3 is my magic number
 
